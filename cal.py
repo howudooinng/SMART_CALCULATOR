@@ -17,3 +17,5 @@ def main():
 
 
 print("hello howudooinng, How are you today!")
+print("the weather today is very harsh")
+
